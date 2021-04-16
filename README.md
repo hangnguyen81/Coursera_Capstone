@@ -7,3 +7,4 @@ This project I created for 'Applied Data Science Capstone' course which belongs 
 * Part 3 - [Segmenting and Clustering Neighborhoods in Toronto](https://github.com/hangnguyen81/Coursera_Capstone/blob/main/AssignmentWeek3_Part3.ipynb)
 
 2. Final Project - The Battle of Neighborhoods
+[A reference source for house buyers in the Capital Region of Finland](https://github.com/hangnguyen81/Coursera_Capstone/blob/main/final_capstone_project/capstone_fin_housebuyers.ipynb)
